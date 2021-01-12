@@ -4,6 +4,8 @@
     <img src="illustrations/Lion_walk.gif" alt="Lion Walk" width="44%"/>
 </div>
 
+A small project of the [Computational Robotics Lab](http://crl.ethz.ch/) at ETH Zurich
+
 ## Table of Contents
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
