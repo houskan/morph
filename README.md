@@ -144,7 +144,7 @@ _You can only store the walk parameters for entries in the `Animal Library`_
     ```
 - Tool disappeared?
     ``` 
-    T - Toogle sidebar
+    T - Toggle sidebar
     ```
 
 - The virtual armature must be selected and in 'Pose Mode' otherwise the tool disappears. To fix this:
